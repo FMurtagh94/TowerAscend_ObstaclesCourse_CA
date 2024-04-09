@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Tower_Ascend.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Tower_Ascend.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Tower_AscendEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Tower_Ascend">
+      <UniqueIdentifier>{043E9F69-A0B1-3525-ABCD-B7D42EF67333}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Tower_Ascend\MovingPlatform.cpp">
+      <Filter>Source\Tower_Ascend</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tower_Ascend\MovingPlatform.h">
+      <Filter>Source\Tower_Ascend</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Tower_Ascend\Tower_Ascend.Build.cs">
+      <Filter>Source\Tower_Ascend</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Tower_Ascend\Tower_Ascend.cpp">
+      <Filter>Source\Tower_Ascend</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tower_Ascend\Tower_Ascend.h">
+      <Filter>Source\Tower_Ascend</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tower_Ascend\Tower_AscendCharacter.cpp">
+      <Filter>Source\Tower_Ascend</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tower_Ascend\Tower_AscendCharacter.h">
+      <Filter>Source\Tower_Ascend</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tower_Ascend\Tower_AscendGameMode.cpp">
+      <Filter>Source\Tower_Ascend</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tower_Ascend\Tower_AscendGameMode.h">
+      <Filter>Source\Tower_Ascend</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

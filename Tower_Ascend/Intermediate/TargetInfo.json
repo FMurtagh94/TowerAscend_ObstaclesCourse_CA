@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Tower_Ascend",
+			"Path": "..\\Source\\Tower_Ascend.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Tower_AscendEditor",
+			"Path": "..\\Source\\Tower_AscendEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
