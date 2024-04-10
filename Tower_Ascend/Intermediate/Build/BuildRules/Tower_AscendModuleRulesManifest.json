@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\FMurtagh\\Desktop\\Masters\\Obstracle_Course_CA\\Tower_Ascend\\Source\\Tower_Ascend\\Tower_Ascend.Build.cs",
-		"C:\\Users\\FMurtagh\\Desktop\\Masters\\Obstracle_Course_CA\\Tower_Ascend\\Source\\Tower_Ascend.Target.cs",
-		"C:\\Users\\FMurtagh\\Desktop\\Masters\\Obstracle_Course_CA\\Tower_Ascend\\Source\\Tower_AscendEditor.Target.cs"
+		"C:\\Users\\FMurtagh\\Desktop\\TowerAscend_ObstaclesCourse_CA\\Tower_Ascend\\Source\\Tower_Ascend\\Tower_Ascend.Build.cs",
+		"C:\\Users\\FMurtagh\\Desktop\\TowerAscend_ObstaclesCourse_CA\\Tower_Ascend\\Source\\Tower_Ascend.Target.cs",
+		"C:\\Users\\FMurtagh\\Desktop\\TowerAscend_ObstaclesCourse_CA\\Tower_Ascend\\Source\\Tower_AscendEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }

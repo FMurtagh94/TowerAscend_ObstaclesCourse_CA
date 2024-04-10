@@ -106,8 +106,8 @@
 /I "Runtime\TypedElementFramework\Public"
 /I "..\Intermediate\Build\Win64\UnrealGame\Inc\TypedElementRuntime\UHT"
 /I "Runtime\TypedElementRuntime\Public"
-/I "C:\Users\FMurtagh\Desktop\Masters\Obstracle_Course_CA\Tower_Ascend\Intermediate\Build\Win64\UnrealGame\Inc\Tower_Ascend\UHT"
-/I "C:\Users\FMurtagh\Desktop\Masters\Obstracle_Course_CA\Tower_Ascend\Source"
+/I "C:\Users\FMurtagh\Desktop\TowerAscend_ObstaclesCourse_CA\Tower_Ascend\Intermediate\Build\Win64\UnrealGame\Inc\Tower_Ascend\UHT"
+/I "C:\Users\FMurtagh\Desktop\TowerAscend_ObstaclesCourse_CA\Tower_Ascend\Source"
 /I "..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealGame\Inc\EnhancedInput\UHT"
 /I "..\Plugins\EnhancedInput\Source\EnhancedInput\Public"
 /external:W0

@@ -58,7 +58,7 @@
 /DUBT_COMPILED_PLATFORM=Win64
 /DUBT_COMPILED_TARGET=Game
 /DUE_APP_NAME="UnrealGame"
-/DUE_ENGINE_DIRECTORY="../../../../../../../../Program Files/Epic Games/UE_5.3/Engine/"
+/DUE_ENGINE_DIRECTORY="../../../../../../../Program Files/Epic Games/UE_5.3/Engine/"
 /DNDIS_MINIPORT_MAJOR_VERSION=0
 /DWIN32=1
 /D_WIN32_WINNT=0x0601
@@ -76,5 +76,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="Third Person Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=Tower_Ascend
-/fo "C:\Users\FMurtagh\Desktop\Masters\Obstracle_Course_CA\Tower_Ascend\Intermediate\Build\Win64\x64\Tower_Ascend\Shipping\Default.rc2.res"
+/fo "C:\Users\FMurtagh\Desktop\TowerAscend_ObstaclesCourse_CA\Tower_Ascend\Intermediate\Build\Win64\x64\Tower_Ascend\Shipping\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"
