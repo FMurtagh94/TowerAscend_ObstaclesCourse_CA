@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tower_AscendModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80fcc0164977d283b4b90e04f580cea7515f0f53")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tower_AscendModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tower_AscendModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

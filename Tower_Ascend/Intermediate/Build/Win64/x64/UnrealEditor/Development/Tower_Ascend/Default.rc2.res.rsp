@@ -75,5 +75,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="Third Person Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=Tower_Ascend
-/fo "C:\Users\FMurtagh\Desktop\Masters\Obstracle_Course_CA\Tower_Ascend\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tower_Ascend\Default.rc2.res"
+/fo "C:\Users\FMurtagh\Desktop\TowerAscend_ObstaclesCourse_CA\Tower_Ascend\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tower_Ascend\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

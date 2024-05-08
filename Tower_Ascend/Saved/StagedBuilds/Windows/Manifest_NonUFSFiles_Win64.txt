@@ -1,0 +1,16 @@
+Tower_Ascend/Binaries/Win64/D3D12/D3D12Core.dll	2024-01-24T23:18:07.726Z
+Tower_Ascend/Binaries/Win64/OpenImageDenoise.dll	2024-01-24T23:50:37.167Z
+Tower_Ascend/Binaries/Win64/Tower_Ascend-Win64-Shipping.exe	2024-04-30T01:40:15.867Z
+Tower_Ascend/Binaries/Win64/tbb.dll	2024-01-24T23:17:46.058Z
+Tower_Ascend/Binaries/Win64/tbb12.dll	2024-01-24T23:50:32.630Z
+Tower_Ascend/Binaries/Win64/tbbmalloc.dll	2024-01-24T23:17:46.061Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2024-01-24T23:27:43.336Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2024-01-24T23:16:20.958Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2024-01-24T23:17:53.547Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2024-01-24T23:17:53.553Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2024-01-24T23:17:55.441Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2024-01-24T23:18:07.719Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2024-01-24T23:18:07.719Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2024-01-24T23:18:08.384Z
+Engine/Content/Slate/Cursor/invisible.cur	2024-01-24T23:21:28.381Z
+Tower_Ascend.exe	2024-04-30T01:40:38.076Z

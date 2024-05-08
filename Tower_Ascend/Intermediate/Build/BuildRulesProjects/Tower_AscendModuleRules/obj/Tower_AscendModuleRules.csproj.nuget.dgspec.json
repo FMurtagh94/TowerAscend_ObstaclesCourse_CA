@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FMurtagh\\Desktop\\Masters\\Obstracle_Course_CA\\Tower_Ascend\\Intermediate\\Build\\BuildRulesProjects\\Tower_AscendModuleRules\\Tower_AscendModuleRules.csproj": {}
+    "C:\\Users\\FMurtagh\\Desktop\\TowerAscend_ObstaclesCourse_CA\\Tower_Ascend\\Intermediate\\Build\\BuildRulesProjects\\Tower_AscendModuleRules\\Tower_AscendModuleRules.csproj": {}
   },
   "projects": {
     "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj": {
@@ -1086,14 +1086,14 @@
         }
       }
     },
-    "C:\\Users\\FMurtagh\\Desktop\\Masters\\Obstracle_Course_CA\\Tower_Ascend\\Intermediate\\Build\\BuildRulesProjects\\Tower_AscendModuleRules\\Tower_AscendModuleRules.csproj": {
+    "C:\\Users\\FMurtagh\\Desktop\\TowerAscend_ObstaclesCourse_CA\\Tower_Ascend\\Intermediate\\Build\\BuildRulesProjects\\Tower_AscendModuleRules\\Tower_AscendModuleRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FMurtagh\\Desktop\\Masters\\Obstracle_Course_CA\\Tower_Ascend\\Intermediate\\Build\\BuildRulesProjects\\Tower_AscendModuleRules\\Tower_AscendModuleRules.csproj",
+        "projectUniqueName": "C:\\Users\\FMurtagh\\Desktop\\TowerAscend_ObstaclesCourse_CA\\Tower_Ascend\\Intermediate\\Build\\BuildRulesProjects\\Tower_AscendModuleRules\\Tower_AscendModuleRules.csproj",
         "projectName": "Tower_AscendModuleRules",
-        "projectPath": "C:\\Users\\FMurtagh\\Desktop\\Masters\\Obstracle_Course_CA\\Tower_Ascend\\Intermediate\\Build\\BuildRulesProjects\\Tower_AscendModuleRules\\Tower_AscendModuleRules.csproj",
+        "projectPath": "C:\\Users\\FMurtagh\\Desktop\\TowerAscend_ObstaclesCourse_CA\\Tower_Ascend\\Intermediate\\Build\\BuildRulesProjects\\Tower_AscendModuleRules\\Tower_AscendModuleRules.csproj",
         "packagesPath": "C:\\Users\\FMurtagh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FMurtagh\\Desktop\\Masters\\Obstracle_Course_CA\\Tower_Ascend\\Intermediate\\Build\\BuildRulesProjects\\Tower_AscendModuleRules\\obj\\",
+        "outputPath": "C:\\Users\\FMurtagh\\Desktop\\TowerAscend_ObstaclesCourse_CA\\Tower_Ascend\\Intermediate\\Build\\BuildRulesProjects\\Tower_AscendModuleRules\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

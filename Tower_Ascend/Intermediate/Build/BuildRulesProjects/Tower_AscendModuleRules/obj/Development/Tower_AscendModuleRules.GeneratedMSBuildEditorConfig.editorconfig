@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tower_AscendModuleRules
-build_property.ProjectDir = C:\Users\FMurtagh\Desktop\Masters\Obstracle_Course_CA\Tower_Ascend\Intermediate\Build\BuildRulesProjects\Tower_AscendModuleRules\
+build_property.ProjectDir = C:\Users\FMurtagh\Desktop\TowerAscend_ObstaclesCourse_CA\Tower_Ascend\Intermediate\Build\BuildRulesProjects\Tower_AscendModuleRules\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

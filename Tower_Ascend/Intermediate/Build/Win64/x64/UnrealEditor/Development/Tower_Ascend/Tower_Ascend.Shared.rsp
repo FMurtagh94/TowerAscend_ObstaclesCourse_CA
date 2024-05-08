@@ -256,8 +256,8 @@
 /I "Developer\PhysicsUtilities\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\WidgetRegistration\UHT"
 /I "Developer\WidgetRegistration\Public"
-/I "C:\Users\FMurtagh\Desktop\Masters\Obstracle_Course_CA\Tower_Ascend\Intermediate\Build\Win64\UnrealEditor\Inc\Tower_Ascend\UHT"
-/I "C:\Users\FMurtagh\Desktop\Masters\Obstracle_Course_CA\Tower_Ascend\Source"
+/I "C:\Users\FMurtagh\Desktop\TowerAscend_ObstaclesCourse_CA\Tower_Ascend\Intermediate\Build\Win64\UnrealEditor\Inc\Tower_Ascend\UHT"
+/I "C:\Users\FMurtagh\Desktop\TowerAscend_ObstaclesCourse_CA\Tower_Ascend\Source"
 /I "..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT"
 /I "..\Plugins\EnhancedInput\Source\EnhancedInput\Public"
 /external:W0
